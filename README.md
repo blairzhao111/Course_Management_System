@@ -1,3 +1,4 @@
+#Course Management System Project
 
 This repository contains source code and resources for my Course Management System Project.
 
@@ -6,6 +7,7 @@ This repository contains source code and resources for my Course Management Syst
 * Use JSP associating modern JSP EL and JSTL core as View
 * Use EclipseLink as ORM
 * Use MySQL as Database 
+* Deploy on Apache Tomcart Server
 
 ## Features  
 
@@ -32,11 +34,9 @@ This repository contains source code and resources for my Course Management Syst
 
 ## Todo
   
-1. Time and Space efficiency.  
-2. Add new problems.  
-3. Add more resources.  
+1. Refactor source code and try to migrate project working with Spring MVC and Maven.
+2. Add new features.  
 
-  
 ## License  
 
     The MIT License (MIT)
