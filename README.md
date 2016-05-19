@@ -38,6 +38,9 @@ This repository contains source code and resources for my Course Management Syst
 2. Add new features.  
 3. Add extensive unit tests.
 
+## To Run Application
+To run the application, you can deploy courseApp.war file in dist directory into any Servlets/JSP container, you may need to do some configurations based on the server you are using, also change Persistence.xml file to configure Database connection, if you are using a different database management system rather than MySQL, you may need to include its JDBC driver in Library.
+
 ## License  
 
     The MIT License (MIT)
