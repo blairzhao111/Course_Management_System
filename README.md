@@ -36,6 +36,7 @@ This repository contains source code and resources for my Course Management Syst
   
 1. Refactor source code and try to migrate project working with Spring MVC and Maven.
 2. Add new features.  
+3. Add extensive unit tests.
 
 ## License  
 
